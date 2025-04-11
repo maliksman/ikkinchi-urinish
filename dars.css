@@ -1,0 +1,65 @@
+h1{
+    background-color: aqua;
+    border: 4px solid red;
+    border-radius: 20px;
+    text-align: center;
+}
+.red{
+    color: red;
+}
+
+h2{
+    color: green;
+}
+
+h3{
+    background-color: yellow;
+    color: green;
+    text-align: center;
+}
+
+h4{
+    color: green;
+}
+
+.butun{
+    width: 91%; height: 40px;
+}
+
+button{
+    background-color: rgb(34, 149, 198);
+    height:  40px;
+    width:   250px;
+}
+
+span{
+    font-size: large;
+    color: white;
+}
+
+table{
+    border-collapse: collapse;
+    width: 90%;
+}
+
+th, td{
+    border: 1px solid white;
+    color: white;
+    text-align: center;
+}
+
+.yashil{
+    background-color: green;
+}
+
+.kok{
+    background-color: blue;
+}
+
+.qizil{
+    background-color: red;
+}
+
+.qora{
+    background-color: black;
+}
